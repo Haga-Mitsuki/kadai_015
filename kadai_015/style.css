@@ -11,7 +11,11 @@ body{
     text-align: center;
 }
 
-body p{
+.pink p{
+font-size: 20px;
+}
+
+.blue p{
 font-size: 20px;
 }
 
