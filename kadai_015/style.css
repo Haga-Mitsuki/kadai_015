@@ -3,20 +3,12 @@
 }
 
 .pink{
-    color:pink;
+    color:rgb(255, 192, 203);
 }
 
 body{
     font-family: "Arial","Meiryo",sans-serif;
     text-align: center;
-}
-
-.pink p{
-font-size: 20px;
-}
-
-.blue p{
-font-size: 20px;
 }
 
 h1{
