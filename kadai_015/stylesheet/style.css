@@ -125,11 +125,11 @@ p {
 }
 
 /* ----------------------------------------------- アバウト */
-.about2::after {
+.chef::after {
   content: "シェフ";
 }
 
-.about_us_bg2 {
+.chef_bg {
   background-color: #fdf5e6;
 }
 
@@ -276,6 +276,7 @@ p {
     line-height: 35px;
   }
 }
+
 
 
 
